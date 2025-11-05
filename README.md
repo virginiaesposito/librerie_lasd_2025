@@ -4,8 +4,6 @@
 
 Questa repository contiene l'implementazione in linguaggio **C++** delle principali strutture dati e algoritmi analizzati durante il corso di Laboratorio di Algoritmi e Strutture Dati.
 
-L'obiettivo è fornire implementazioni chiare, commentate e testate di librerie fondamentali per lo sviluppo software.
-
 ## 🗂️ Struttura della Repository
 
 La repository è organizzata in sottocartelle, ognuna dedicata a una specifica struttura o algoritmo:
